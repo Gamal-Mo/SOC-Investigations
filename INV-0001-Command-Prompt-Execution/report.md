@@ -17,7 +17,7 @@ User **gamal** on **DESKTOP-0DFKSAT** launched `cmd.exe` from `explorer.exe`. Th
 # Lab Environment
 
 - SIEM: Elastic Security
-- Endpoint: Windows 11
+- Endpoint: Windows 10
 - Log Source: Sysmon
 - Dataset: `windows.sysmon_operational`
 
